@@ -9,7 +9,7 @@ Required PIP Packages:
 
 TODO:
 - [x] Make Github Account
-- [] Add functionality: Export CSV
+- [ ] Add functionality: Export CSV
 - [x] Add functionality: View Table as HTML
 - [x] Get a coffee
-- [] 
+- [ ] 
