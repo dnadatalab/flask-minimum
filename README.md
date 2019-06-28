@@ -2,10 +2,12 @@
 Framework for a minimum flask application.
 
 ## Requirements
-- flask
-- flask-sqlalchemy
-- flask-migrate
-- pandas
+- Python 3.6+
+- PIP Packages
+  - flask
+  - flask-sqlalchemy
+  - flask-migrate
+  - pandas
 
 ## TODO
 - [x] Make Github Account
