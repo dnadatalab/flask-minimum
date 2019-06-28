@@ -12,4 +12,4 @@ TODO:
 - [ ] Add functionality: Export CSV
 - [x] Add functionality: View Table as HTML
 - [x] Get a coffee
-- [ ] 
+- [ ] Put something important here!
