@@ -1,6 +1,7 @@
 # EXTERNAL PACKAGES
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy, inspect
+from sqlalchemy.ext.hybrid import hybrid_property
 from flask_migrate import Migrate
 import pandas as pd
 # PYTHON STANDARD LIBRARY
