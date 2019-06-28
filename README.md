@@ -11,7 +11,7 @@ Framework for a minimum flask application.
 
 ## TODO
 - [x] Make Github Account
-- [ ] Add functionality: Export CSV
 - [x] Add functionality: View Table as HTML
 - [x] Get a coffee
+- [ ] Add functionality: Export CSV
 - [ ] Put something important here!
