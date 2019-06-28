@@ -1,3 +1,8 @@
 # flask-minimum
 Framework for a minimum flask application.
-This is a newline
+
+Required PIP Packages:
+- flask
+- flask-sqlalchemy
+- flask-migrate
+- pandas
